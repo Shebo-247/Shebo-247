@@ -6,8 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shebo247/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shouaibmoha247@gmail.com)  
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Shebo-247)  
-[![Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/yourusername)
+[![GitHub Followers](https://img.shields.io/github/followers/Shebo-247?label=Follow&style=social)](https://github.com/Shebo-247)  
+[![Views](https://komarev.com/ghpvc/?username=Shebo-247&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Shebo-247)
 
 ---
 
