@@ -48,8 +48,14 @@ Passionate and results-driven Flutter Developer with over 4 years of experience 
 ### 👥 [Engaz HR](https://play.google.com/store/apps/details?id=com.engaz.engazhr)
 > Engaz HR is an integrated human resources management application that simplifies employee tracking, attendance, payroll, and leave management. It empowers HR teams with real-time data and tools to automate daily operations, ensuring a smooth and efficient HR workflow.
 
-### 🌹 [Spring Rose](https://apps.apple.com/us/app/springrose-%D8%B2%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D8%A8%D9%8A%D8%B9/id1289058007)
-> Spring Rose is a user-friendly mobile application that allows customers in Saudi Arabia to easily browse and order fresh flowers and elegant gifts for any occasion. The app offers a curated selection of bouquets and arrangements with fast, reliable delivery, making it simple to celebrate special moments with beauty and care.
+### 🌹 [Kian](https://play.google.com/store/apps/details?id=com.app.kian)
+> An educational mobile application serving 10,000+ users, offering a wide range of interactive courses across various subjects. The app enables students to explore, enroll in, and complete structured lessons through an intuitive and engaging user interface. Key features include:
+- Course browsing and enrollment across multiple educational materials
+- Video and text-based lessons, quizzes, and progress tracking
+- User authentication, profiles, and personalized dashboards
+- Push notifications for updates and reminders
+- Firebase integration for real-time data handling and user management
+- Scalable architecture built with Flutter and Dart using BLoC pattern for state management
 
 ---
 
