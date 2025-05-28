@@ -50,12 +50,12 @@ Passionate and results-driven Flutter Developer with over 4 years of experience 
 
 ### 🌹 [Kian](https://play.google.com/store/apps/details?id=com.app.kian)
 > An educational mobile application serving 10,000+ users, offering a wide range of interactive courses across various subjects. The app enables students to explore, enroll in, and complete structured lessons through an intuitive and engaging user interface. Key features include:
-- Course browsing and enrollment across multiple educational materials
-- Video and text-based lessons, quizzes, and progress tracking
-- User authentication, profiles, and personalized dashboards
-- Push notifications for updates and reminders
-- Firebase integration for real-time data handling and user management
-- Scalable architecture built with Flutter and Dart using BLoC pattern for state management
+> - Course browsing and enrollment across multiple educational materials
+> - Video and text-based lessons, quizzes, and progress tracking
+> - User authentication, profiles, and personalized dashboards
+> - Push notifications for updates and reminders
+> - Firebase integration for real-time data handling and user management
+> - Scalable architecture built with Flutter and Dart using BLoC pattern for state management
 
 ---
 
