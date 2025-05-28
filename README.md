@@ -48,7 +48,7 @@ Passionate and results-driven Flutter Developer with over 4 years of experience 
 ### 👥 [Engaz HR](https://play.google.com/store/apps/details?id=com.engaz.engazhr)
 > Engaz HR is an integrated human resources management application that simplifies employee tracking, attendance, payroll, and leave management. It empowers HR teams with real-time data and tools to automate daily operations, ensuring a smooth and efficient HR workflow.
 
-### 🌹 [Kian](https://play.google.com/store/apps/details?id=com.app.kian)
+### 💼 [Kian](https://play.google.com/store/apps/details?id=com.app.kian)
 > An educational mobile application serving 10,000+ users, offering a wide range of interactive courses across various subjects. The app enables students to explore, enroll in, and complete structured lessons through an intuitive and engaging user interface. Key features include:
 > - Course browsing and enrollment across multiple educational materials
 > - Video and text-based lessons, quizzes, and progress tracking
